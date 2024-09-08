@@ -1,2 +1,0 @@
-inspect_ai @ git+https://github.com/UKGovernmentBEIS/inspect_ai@bca3ac87f47882bab71b970541af3f0a71112aa9
-openai==1.34.0
